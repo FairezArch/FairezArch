@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faisal Reza Muhammad</h1>
-<h3 align="center">A passionate fullstack web developer from Indonesia</h3>
+<h1 align="center">Faisal Reza Muhammad</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fairezarch&label=Profile%20views&color=0e75b6&style=flat" alt="fairezarch" /> </p>
 
