@@ -24,7 +24,6 @@ Software Engineer specializing in **Full-Stack Development** and **Cloud Enginee
 - 🔭 Currently working as **Backend Developer** at **Learnext (formerly goKampus)**
 - 🌱 Specialized in building **RESTful APIs**, and **Cloud Infrastructure**
 - 💼 Experience with **AWS**, **GCP**, **Docker**, **Terraform**, and **CI/CD**
-- 🔗 Site: **[faisal](https://fairez.me)**
 
 ---
 
